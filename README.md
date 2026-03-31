@@ -12,7 +12,7 @@ https://www.google.com/search?q=%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80+MC
  https://normal-operating.tistory.com/46
 
 
-
+https://github.com/chrisryugj/korean-law-mcp/blob/main/README-KR.md
  https://news.hada.io/topic?id=27995
  https://github.com/chrisryugj/kordoc
  https://wikidocs.net/blog/@jaehong/10281/
